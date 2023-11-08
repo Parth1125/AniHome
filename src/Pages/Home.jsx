@@ -9,8 +9,6 @@ const Home = () => {
           <Navbar />
         </section>
       </main>
-      {/* top anime */}
-      {/* footer */}
     </>
   );
 };
