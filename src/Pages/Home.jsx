@@ -1,14 +1,18 @@
 // import Header from '../Components/Header'
-import Navbar from '../Components/Navbar'
+import Navbar from "../Components/Navbar";
 
 const Home = () => {
   return (
     <>
-    <Navbar/>
-   
+      <main>
+        <section className="h-screen bg-black ">
+          <Navbar />
+        </section>
+      </main>
+      {/* top anime */}
+      {/* footer */}
     </>
-    
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
