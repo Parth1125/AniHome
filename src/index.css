@@ -2,5 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
-:
+.pain{
+    background-image: url('./assets/images/pain2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
