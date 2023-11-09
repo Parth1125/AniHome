@@ -1,6 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5ae28fbcb73f7db47f14e6824673f0494a6f2cac
 
 /* Define scrollbar styles */
 ::-webkit-scrollbar {
@@ -29,3 +33,7 @@
 ::-webkit-scrollbar-track:hover {
   background-color: #857676; /* Change track color on hover */
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5ae28fbcb73f7db47f14e6824673f0494a6f2cac
